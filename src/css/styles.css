@@ -79,8 +79,7 @@ body {
   background-color: #4e75ff;
 }
 
-.btn:hover,
-.btn:focus {
+.btn:hover {
   background-color: #6c8cff;
 }
 
